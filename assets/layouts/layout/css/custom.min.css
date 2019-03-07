@@ -1,0 +1,53 @@
+table.no-footer tr td:last-child {
+    width: 14%;
+}
+.mt-checkbox, .mt-radio{
+	padding-left:10px;
+}
+.mt-checkbox-list label{padding-left: 20px;}
+.form-horizontal .control-label.custom_label_width {
+    text-align: left;
+    margin-bottom: 0;
+    padding-top: 7px;
+    float: left;
+    padding: 7px 15px 0;
+}
+.page-container-bg-solid .page-bar .page-breadcrumb, .page-content-white .page-bar .page-breadcrumb{margin: 10px;}
+.form-horizontal .form-group .form-control-static {
+    word-break: break-all;
+}
+
+/********* New 20-06-17 ****************/
+
+#add_restaurant_form .input-group, #edit_restaurant_form .input-group {
+    float: left;
+}
+.form-group .input-group {
+    float: left;
+}
+#add_restaurant_form .mt-checkbox-list label, #edit_restaurant_form .mt-checkbox-list label {
+    padding-left: 30px;
+}
+.page-content-white .page-title {
+    margin: 15px 0;
+}
+#add_restaurant_form .mt-checkbox-list, #edit_restaurant_form .mt-checkbox-list {
+	padding-top: 30px;
+}
+#add_restaurant_form .input-group-btn, #edit_restaurant_form .input-group-btn {
+    vertical-align: bottom;
+}
+#add_restaurant_form button.btn.clock_btn, #edit_restaurant_form button.btn.clock_btn {
+    padding: 7.5px;
+    box-shadow: none;
+    border-top: 1px solid #c2cad8;
+    border-bottom: 1px solid #c2cad8;
+    border-right: 1px solid #c2cad8;
+    border-left: none;
+}
+.custom_margin {
+	margin-bottom: 2px;
+}
+.form-horizontal .label_align {
+	text-align: left;
+}
