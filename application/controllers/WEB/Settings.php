@@ -39,6 +39,7 @@ class Settings extends My_Web {
 		$magento_database = $this->input->post('magento_database');
 		$magento_dbpassword = $this->input->post('magento_dbpassword');
 		$magento_dbhost = $this->input->post('magento_dbhost');
+		$magento_dbhost = $this->input->post('magento_dbhost'); 
 		
 		
 
